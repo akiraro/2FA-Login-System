@@ -1,0 +1,6 @@
+{
+    "require": {
+        "authy/php": "dev-master",
+        "resty/resty": "dev-master"
+    }
+}
